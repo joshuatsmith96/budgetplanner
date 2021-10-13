@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/budgetplanner/static/css/main.445e63b7.chunk.css",
+    "main.css": "/budgetplanner/static/css/main.8a0b6c96.chunk.css",
     "main.js": "/budgetplanner/static/js/main.4dc0dada.chunk.js",
     "main.js.map": "/budgetplanner/static/js/main.4dc0dada.chunk.js.map",
     "runtime-main.js": "/budgetplanner/static/js/runtime-main.8c70537b.js",
@@ -10,13 +10,13 @@
     "static/js/3.ee9c14cc.chunk.js": "/budgetplanner/static/js/3.ee9c14cc.chunk.js",
     "static/js/3.ee9c14cc.chunk.js.map": "/budgetplanner/static/js/3.ee9c14cc.chunk.js.map",
     "index.html": "/budgetplanner/index.html",
-    "static/css/main.445e63b7.chunk.css.map": "/budgetplanner/static/css/main.445e63b7.chunk.css.map",
+    "static/css/main.8a0b6c96.chunk.css.map": "/budgetplanner/static/css/main.8a0b6c96.chunk.css.map",
     "static/js/2.5a2fd536.chunk.js.LICENSE.txt": "/budgetplanner/static/js/2.5a2fd536.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8c70537b.js",
     "static/js/2.5a2fd536.chunk.js",
-    "static/css/main.445e63b7.chunk.css",
+    "static/css/main.8a0b6c96.chunk.css",
     "static/js/main.4dc0dada.chunk.js"
   ]
 }
