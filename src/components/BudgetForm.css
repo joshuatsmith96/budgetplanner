@@ -29,6 +29,10 @@
     font-size: 18px;
 }
 
+.BudgetForm form button:hover{
+    cursor: pointer;
+}
+
 .inputs{
     display: flex;
     flex-direction: row;
@@ -99,6 +103,10 @@
     color: white;
     border: none;
     border-radius: 10px;
+}
+
+.expenseContainer button:hover{
+    cursor: pointer;
 }
 
 .expenseText{
